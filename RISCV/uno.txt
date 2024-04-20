@@ -1,0 +1,22 @@
+var
+  float c1, c2, c3;
+  string nombre;
+  int x0, v0, xfin, a, t;
+  /* comentario */
+
+main(){
+
+/* este es un comentario 
+de mas de una linea */
+
+  c1 = 24.67;
+  c2 = 3.4545;
+  c3 = c1 * c2;
+  x0 = 1;
+  v0 = 2;
+  a = 3;
+  t = 4;
+  xfin = x0 + v0*t + 0.5*a*t*t;
+  print(xfin);
+  /*print("Hola mundo");*/
+}
